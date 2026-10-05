@@ -1,0 +1,6 @@
+{
+  "name": "ระบบบันทึกประวัติการฝึกอบรม อบต.โนนหนามแท่ง",
+  "description": "ระบบบันทึกประวัติการฝึกอบรมบุคลากร อบต.โนนหนามแท่ง พร้อมจัดเก็บใบประกาศนียบัตร เชื่อมโยง Google Sheets และแดชบอร์ดสรุปสถิติสำหรับผู้บริหาร",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
